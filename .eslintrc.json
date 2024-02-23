@@ -10,7 +10,6 @@
     }
   },
   "extends": [
-    "../.eslintrc.yml",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
     "plugin:react/jsx-runtime"
